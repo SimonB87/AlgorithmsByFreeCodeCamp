@@ -5,5 +5,5 @@
 
 ### Source:
 
-[Free Code Camp] (freecodecamp.org/map)
+[Free Code Camp](freecodecamp.org/map)
 Online platform to study for web development technologies

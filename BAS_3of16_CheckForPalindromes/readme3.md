@@ -15,6 +15,6 @@ We'll also pass strings with special symbols, such as "2A3*3a2", "2A3  3a2", and
 
 ### Source:
 
-[Free Code Camp] (https://www.freecodecamp.org/challenges/check-for-palindromes)
+[Free Code Camp](https://www.freecodecamp.org/challenges/check-for-palindromes)
 Online platform to study for web development
 

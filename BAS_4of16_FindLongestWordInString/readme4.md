@@ -10,6 +10,6 @@ Remember to use Read-Search-Ask if you get stuck. Write your own code.
 
 ### Source:
 
-[Free Code Camp] (https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
+[Free Code Camp](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
 Online platform to study for web development
 

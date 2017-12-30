@@ -12,6 +12,6 @@ For example: 5! = 1 * 2 * 3 * 4 * 5 = 120
 
 ### Source:
 
-[Free Code Camp] (https://www.freecodecamp.org/challenges/factorialize-a-number)
+[Free Code Camp](https://www.freecodecamp.org/challenges/factorialize-a-number)
 Online platform to study for web development
 

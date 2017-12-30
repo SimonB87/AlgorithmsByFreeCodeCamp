@@ -10,6 +10,6 @@ Your result must be a string.
 
 ### Source:
 
-[Free Code Camp] (https://www.freecodecamp.org/challenges/reverse-a-string)
+[Free Code Camp](https://www.freecodecamp.org/challenges/reverse-a-string)
 Online platform to study for web development
 
